@@ -20,11 +20,11 @@ const Footer = () => {
               Our top-of-the-line facilities and professionally certified
               personal trainers provide our members with a holistic experience.
             </p>
-          </div>
+          </div >
 
-          <div className='footer_box'>
+        < /*div className='footer_box'>
             <h4 className='footer_title'>Company</h4>
-            <ul className='footer_links'>
+            <ul  className='footer_links'>
               <li>
                 <a href='#'>Our programs</a>
               </li>
@@ -39,7 +39,7 @@ const Footer = () => {
 
           <div className='footer_box'>
             <h4 className='footer_title'>Quick Links</h4>
-{/*             <ul className='footer_links'>
+{             <ul className='footer_links'>
               <li>
                 <a href='#'>About Us</a>
               </li>
