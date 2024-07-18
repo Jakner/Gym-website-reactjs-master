@@ -22,9 +22,9 @@ const Footer = () => {
             </p>
           </div >
 
-        < /*div className='footer_box'>
+        < div className='footer_box'>
             <h4 className='footer_title'>Company</h4>
-            <ul  className='footer_links'>
+{/*             <ul  className='footer_links'>
               <li>
                 <a href='#'>Our programs</a>
               </li>
@@ -64,7 +64,7 @@ const Footer = () => {
               <li>
                 <a href='#'>Support</a>
               </li>
-            </ul> */}
+            </ul>} */}
           </div>
         </div>
 
