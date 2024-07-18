@@ -3,7 +3,7 @@ import '../../styles/footer.css'
 import logo from '../../assets/img/dumble.png'
 
 const Footer = () => {
-  const year = new Date().getFullYear()
+  // const year = new Date().getFullYear()
   return (
     <footer className='footer' data-aos='fade-up' data-aos-duration='1500'>
       <div className='container'>
@@ -24,7 +24,7 @@ const Footer = () => {
 
         < div className='footer_box'>
             <h4 className='footer_title'>Company</h4>
-{/*             <ul  className='footer_links'>
+{             <ul  className='footer_links'>
               <li>
                 <a href='#'>Our programs</a>
               </li>
@@ -71,7 +71,7 @@ const Footer = () => {
 {/*         <p className='copyright'>
           Copyright - {year} developed by <a href='#'>Dunprel.</a> All rights
           reserved.
-        </p> */}
+        </p> }
       </div>
     </footer>
   )
