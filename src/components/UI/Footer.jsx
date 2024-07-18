@@ -68,10 +68,10 @@ const Footer = () => {
           </div>
         </div>
 
-        <p className='copyright'>
+{/*         <p className='copyright'>
           Copyright - {year} developed by <a href='#'>Dunprel.</a> All rights
           reserved.
-        </p>
+        </p> */}
       </div>
     </footer>
   )
