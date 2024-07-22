@@ -79,6 +79,7 @@
   font-family: var(--font-name);
   font-weight: 500;
   cursor: pointer;
+  z-index: 5;
 }
 
 .mobile_menu {

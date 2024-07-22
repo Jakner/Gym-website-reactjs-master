@@ -83,10 +83,12 @@ const Header = () => {
 
           {/* ======= nav right ======= */}
           <div className='nav_right'>
-            <button onClick="aparecerFormulario()" className='register_btn'>Register</button>
-            <span className='mobile_menu'>
-              <i class='ri-menu-line'></i>
-            </span>
+            <a href="http://localhost:3001">
+              <button className='register_btn'>Register</button>
+              <span className='mobile_menu'>
+                <i class='ri-menu-line'></i>
+              </span>
+            </a>
           </div>
         </div>
       </div>
