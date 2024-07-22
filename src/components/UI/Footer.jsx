@@ -12,7 +12,7 @@ const Footer = () => {
             <div className='logo'>
               <div className='logo_img'>
                 <img src={logo} alt='' />
-                <h2>Fitbody</h2>
+                <h2>Personal</h2>
               </div>
             </div>
 
@@ -26,50 +26,50 @@ const Footer = () => {
             <h4 className='footer_title'>Company</h4>
             <ul className='footer_links'>
               <li>
-                <a href='#top'>Our programs</a>
+                <a href='#top'>Nossos  programas</a>
               </li>
               <li>
-                <a href='#top'>Our plans</a>
+                <a href='#top'>Nossos Planos</a>
               </li>
               <li>
-                <a href='#top'>Become a member</a>
-              </li>
-            </ul>
-          </div>
-
-          <div className='footer_box'>
-            <h4 className='footer_title'>Quick Links</h4>
-            <ul className='footer_links'>
-              <li>
-                <a href='#top'>About Us</a>
-              </li>
-              <li>
-                <a href='#top'>Contact us</a>
-              </li>
-              <li>
-                <a href='#top'>Support</a>
+                <a href='#top'>Se torne um mebro</a>
               </li>
             </ul>
           </div>
 
           <div className='footer_box'>
-            <h4 className='footer_title'>Quick Links</h4>
+            <h4 className='footer_title'>Links rapidos</h4>
             <ul className='footer_links'>
               <li>
-                <a href='#top'>About Us</a>
+                <a href='#top'>Sobre nós</a>
               </li>
               <li>
-                <a href='#top'>Contact us</a>
+                <a href='#top'>Nossos contatos</a>
               </li>
               <li>
-                <a href='#top'>Support</a>
+                <a href='#top'>Suporte</a>
+              </li>
+            </ul>
+          </div>
+
+          <div className='footer_box'>
+            <h4 className='footer_title'>Links Rapidos</h4>
+            <ul className='footer_links'>
+              <li>
+                <a href='#top'>Nobre nós</a>
+              </li>
+              <li>
+                <a href='#top'>Nossos contatos</a>
+              </li>
+              <li>
+                <a href='#top'>Supoorte</a>
               </li>
             </ul>
           </div>
         </div>
 
         <p className='copyright'>
-          Copyright - {year} developed by <a href='#top'>Dunprel.</a> All rights
+          Copyright - {year} developed by <a href='https://linkedin.com/in/vagner-miranda-83854531' target='_blank'>Vagner Miranda.</a> All rights
           reserved.
         </p>
       </div>

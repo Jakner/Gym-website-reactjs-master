@@ -30,12 +30,7 @@ body {
 }
 
 html {
-  scroll-behavior: smooth;
-}
-h1,
-h2,
-h3 {
-
+  scroll-snap-type: y mandatory;
 }
 
 section {
@@ -44,7 +39,7 @@ section {
 
 a {
   text-decoration: none;
-  color: unset;
+  color: none;
 }
 
 a:hover {
@@ -57,9 +52,9 @@ ul {
 
 /* ========= reusable class =========*/
 .container {
-  width: 1140px;
-  padding: 0px 15px;
-  margin: auto;
+    width: 1140px;
+    padding: 0px 15px;
+    margin: auto;
 }
 
 .section_title {

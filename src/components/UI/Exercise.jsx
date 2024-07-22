@@ -10,7 +10,7 @@ const Exercise = () => {
       <div className='container exercise_container'>
         <div className='exercise_top'>
           <h2 className='section_title'>
-            Benefits of <span className='highlights'>Exercise</span>
+            Benefits of <span className='highlights'>Exercícios</span>
           </h2>
 
           <p>

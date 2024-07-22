@@ -7,7 +7,7 @@ const Pricing = () => {
       <div className='container'>
         <div className='pricing_top'>
           <h2 className='section_title'>
-            Gym <span className='highlights'>Pricing</span>
+            Gym <span className='highlights'>Planos</span>
           </h2>
           <p>
             We know decision-making is hard, but don’t sweat it. <br /> Choose

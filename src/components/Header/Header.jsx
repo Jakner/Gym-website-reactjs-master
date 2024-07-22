@@ -1,5 +1,6 @@
 import React, { useRef } from 'react'
 import '../../styles/header.css'
+import '../../styles/responsive.css'
 import logo from '../../assets/img/dumble.png'
 import { useEffect } from 'react'
 
@@ -84,7 +85,7 @@ const Header = () => {
           {/* ======= nav right ======= */}
           <div className='nav_right'>
             <a href="http://localhost:3001">
-              <button className='register_btn'>Register</button>
+              <button className='register_btn'>Login</button>
               <span className='mobile_menu'>
                 <i class='ri-menu-line'></i>
               </span>
