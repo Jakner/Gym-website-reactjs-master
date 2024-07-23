@@ -1,5 +1,6 @@
 import React from 'react'
 import '../../styles/testimonials.css'
+import '../../styles/responsive.css'
 import { Swiper, SwiperSlide } from 'swiper/react'
 
 // Import Swiper styles

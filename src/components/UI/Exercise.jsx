@@ -1,5 +1,6 @@
 import React from 'react'
 import '../../styles/exercise.css'
+import '../../styles/responsive.css'
 import lunges from '../../assets/img/lunges.png'
 import yoga from '../../assets/img/yoga-pose.png'
 import extended from '../../assets/img/extended.png'

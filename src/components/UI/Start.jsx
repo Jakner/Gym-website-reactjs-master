@@ -1,5 +1,6 @@
 import React from 'react'
 import '../../styles/start.css'
+import '../../styles/responsive.css'
 import trainingImg from '../../assets/img/trainer.png'
 
 const Start = () => {

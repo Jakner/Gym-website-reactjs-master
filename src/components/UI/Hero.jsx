@@ -2,6 +2,7 @@ import React from 'react'
 import heroImg from '../../assets/img/Capa Site 4 - Fabi Ponce.png'
 import dumbleIcon from '../../assets/img/dumble.png'
 import '../../styles/Hero.css'
+import '../../styles/responsive.css'
 import { aparecerFormulario } from '../../scripts';
 
 const Hero = () => {

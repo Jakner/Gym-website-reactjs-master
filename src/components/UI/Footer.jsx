@@ -1,5 +1,6 @@
 import React from 'react'
 import '../../styles/footer.css'
+import '../../styles/responsive.css'
 import logo from '../../assets/img/dumble.png'
 
 const Footer = () => {
@@ -69,7 +70,7 @@ const Footer = () => {
         </div>
 
         <p className='copyright'>
-          Copyright - {year} developed by <a href='https://linkedin.com/in/vagner-miranda-83854531' target='_blank'>Vagner Miranda.</a> All rights
+          Copyright - {year} developed by <a href='https://linkedin.com/in/vagner-miranda-83854531' target='_blank' rel='noreferrer'>Vagner Miranda.</a> All rights
           reserved.
         </p>
       </div>

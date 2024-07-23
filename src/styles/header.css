@@ -102,3 +102,6 @@
 .navigation{
   z-index: 10;
 }
+.list-resp{
+  display: none;
+}

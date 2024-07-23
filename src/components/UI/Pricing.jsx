@@ -1,5 +1,6 @@
 import React from 'react'
 import '../../styles/pricing.css'
+import '../../styles/responsive.css'
 
 const Pricing = () => {
   return (
