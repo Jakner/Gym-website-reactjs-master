@@ -11,12 +11,12 @@ const Exercise = () => {
       <div className='container exercise_container'>
         <div className='exercise_top'>
           <h2 className='section_title'>
-            Benefits of <span className='highlights'>Exercícios</span>
+            Beneficios dos <span className='highlights'>Exercícios</span>
           </h2>
 
           <p>
-            Regular exercise has numerous benefits <br /> for both physical and
-            mental health.
+            O exercício regular traz inúmeros benefícios  <br /> tanto para o físico quanto para
+            saúde mental.
           </p>
         </div>
 
@@ -32,10 +32,10 @@ const Exercise = () => {
             </span>
 
             <div className='exercise_content'>
-              <h4>Healthy Life</h4>
+              <h4>Vida Saudável</h4>
               <p>
-                Regular exercise can also reduce the risk of chronic diseases
-                such as diabetes, heart disease, and some types of cancer.
+              O exercício regular também pode reduzir o risco de doenças crônicas
+              como diabetes, doenças cardíacas e alguns tipos de câncer.
               </p>
             </div>
           </div>
@@ -50,10 +50,10 @@ const Exercise = () => {
             </span>
 
             <div className='exercise_content'>
-              <h4>Increased Flexibility</h4>
+              <h4>Maior flexibilidade</h4>
               <p>
-                Exercise helps to strengthen muscles and bones, improve
-                cardiovascular health, and increase flexibility and balance.
+                O exercício ajuda a fortalecer músculos e ossos, melhorar
+                saúde cardiovascular e aumentar a flexibilidade e o equilíbrio.
               </p>
             </div>
           </div>
@@ -68,11 +68,11 @@ const Exercise = () => {
             </span>
 
             <div className='exercise_content'>
-              <h4>Reducing Blood Pressure</h4>
+              <h4>Reduzindo a pressão arterial</h4>
               <p>
-                Regular exercise can improve your cardiovascular health and
-                strengthen your muscles, leading to increased energy and
-                stamina.
+              O exercício regular pode melhorar sua saúde cardiovascular e
+                fortalecer seus músculos, levando ao aumento de energia e
+                energia.
               </p>
             </div>
           </div>

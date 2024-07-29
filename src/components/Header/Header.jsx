@@ -11,15 +11,15 @@ const nav_links = [
   },
   {
     path: '#schedule',
-    display: 'Schedule',
+    display: 'Agenda',
   },
   {
     path: '#classes',
-    display: 'Classes',
+    display: 'Aulas',
   },
   {
     path: '#pricing-plan',
-    display: 'Pricing',
+    display: 'Preços',
   },
 ]
 
